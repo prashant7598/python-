@@ -1,0 +1,5 @@
+# filter() function in Python takes in a function and a list as arguments. This offers an elegant way to filter out all the elements of a sequence "sequence", for which the function returns True
+
+n = [1, 2, 3, 4, 5, 6]
+even = filter(lambda x: x % 2 == 0, n)
+print(list(even))

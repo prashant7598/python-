@@ -1,0 +1,5 @@
+#. Using for Returning Multiple Results
+
+calc = lambda x, y: (x + y, x * y)
+res = calc(3, 4)
+print(res)
