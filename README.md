@@ -12,5 +12,3 @@ This repository contains my **Python learning and practice code**, organized top
 - NumPy & Pandas  
 - Mini Practice Projects  
 
- ## Usage
-```bash
